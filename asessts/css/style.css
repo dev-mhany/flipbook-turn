@@ -88,10 +88,3 @@ body {
   font-weight: bold;
   text-transform: uppercase;
 }
-/* @media (max-width: 767px) {
-  /* Adjusts for devices with screen width of 767px or less */
-  .page {
-    width: 50%; /* Makes each page take up half the container's width */
-    display: inline-block; /* Allows pages to sit side by side */
-  }
-} */
