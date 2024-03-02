@@ -6,7 +6,9 @@
  * Copyright (C) 2012 Emmanuel Garcia
  * All rights reserved
  **/
-
+window.addEventListener("resize", function () {
+  // Code to adjust layout or turn.js settings
+});
 (function ($) {
   "use strict";
 
